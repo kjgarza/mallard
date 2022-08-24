@@ -1,0 +1,162 @@
+﻿"types.resourceTypeGeneral: Descending","client.name.keyword: Descending",Count
+Dataset,"Plutof.  Data Management and Publishing Platform",2383860
+Dataset,"Global Biodiversity Information Facility",1514797
+Dataset,"The Cambridge Structural Database",988959
+Dataset,"figshare Academic Research System",743075
+Dataset,"Harvard Dataverse",701359
+Dataset,"__other__",6107627
+Text,Zenodo,1557026
+Text,arXiv,1155552
+Text,"E-Periodica",953276
+Text,"figshare Academic Research System",757391
+Text,ResearchGate,746078
+Text,"__other__",4503565
+Image,Zenodo,1239795
+Image,"E-Pics Bildarchiv",655832
+Image,"figshare Academic Research System",347937
+Image,NTNU,235966
+Image,"Technische Universität Berlin – Universitätsbibliothek",156457
+Image,"__other__",589362
+"__missing__","Columbia University Libraries",536911
+"__missing__",PARADISEC,332297
+"__missing__",ResearchGate,237826
+"__missing__","Universitäts- und Landesbibliothek Sachsen-Anhalt",95393
+"__missing__","Open Collections",76688
+"__missing__","__other__",570798
+PhysicalObject,"International Treaty on Plant Genetic Resources for Food and Agriculture",1093773
+PhysicalObject,"Genebank Information System of the IPK Gatersleben",208788
+PhysicalObject,"Data INRAE",67518
+PhysicalObject,"Digital Collections",10572
+PhysicalObject,NAKALA,9368
+PhysicalObject,"__other__",12603
+Preprint,arXiv,956800
+Preprint,Zenodo,3918
+Preprint,NAKALA,46
+Preprint,"Oroboros Instruments",20
+Preprint,"University of Massachusetts (UMass) Amherst",19
+Preprint,"__other__",65
+Other,"Data Planet",332630
+Other,"University of Texas Libraries",58558
+Other,"University of Cape Town (UCT)",44262
+Other,"University of Johannesburg",40783
+Other,"figshare Academic Research System",36897
+Other,"__other__",355994
+Collection,"figshare Academic Research System",369165
+Collection,"Imperial College London",192963
+Collection,"figshare SAGE Publications",93541
+Collection,"Fondazione 1563",44202
+Collection,HEPData,19934
+Collection,"__other__",114888
+Software,Zenodo,276063
+Software,"figshare Academic Research System",17495
+Software,"Code Ocean",3814
+Software,"National Cancer Institute (NCI) Community Hub",3813
+Software,HubZero,3299
+Software,"__other__",14027
+Audiovisual,"figshare Academic Research System",100085
+Audiovisual,"TIB KMO / FLOWWORKS GmbH",34983
+Audiovisual,"Underline Science Inc.",25389
+Audiovisual,Zenodo,12073
+Audiovisual,"The Digital Archeological Record (tDAR)",9591
+Audiovisual,"__other__",64785
+JournalArticle,Zenodo,206511
+JournalArticle,peDOCS,14798
+JournalArticle,"Stanford Social Innovation Review",5885
+JournalArticle,"Universitätsbibliothek Gießen",3487
+JournalArticle,"Alfred Wegener Institute",3093
+JournalArticle,"__other__",9416
+InteractiveResource,"Universität Zürich, ZORA",82327
+InteractiveResource,"Universitätsbibliothek Tübingen",18413
+InteractiveResource,Zenodo,8315
+InteractiveResource,"BFH: ARBOR",5498
+InteractiveResource,"e-codices",2653
+InteractiveResource,"__other__",1949
+Report,"TIB Hannover",67796
+Report,Zenodo,9981
+Report,"Alfred Wegener Institute",2575
+Report,"NRC Digital Repository",1111
+Report,"CL Technical Reports",968
+Report,"__other__",5300
+Dissertation,"University of New South Wales",22380
+Dissertation,"Universitätsbibliothek der LMU",18292
+Dissertation,"Repositorio Institucional E-docUR",7115
+Dissertation,"Universität Zürich, ZORA",6305
+Dissertation,"Aston Publications Explorer",4834
+Dissertation,"__other__",14497
+Sound,"Verbundzentrale des GBV",17724
+Sound,NAKALA,13601
+Sound,"Langues et Civilisations à Tradition Orale",4728
+Sound,"Günter Grass Stiftung Bremen Medienarchiv",1211
+Sound,"University of Iowa Libraries",648
+Sound,"__other__",2764
+ConferencePaper,Zenodo,27843
+ConferencePaper,"German Medical Science",3821
+ConferencePaper,"University of New South Wales",421
+ConferencePaper,Eurographics,264
+ConferencePaper,"TIB Hannover",201
+ConferencePaper,"__other__",787
+Book,Zenodo,7614
+Book,"TIB Hannover",6775
+Book,peDOCS,2107
+Book,"Università degli Studi di Napoli Federico II",250
+Book,"Presses Universitaires Savoie Mont Blanc",223
+Book,"__other__",983
+BookChapter,Zenodo,5368
+BookChapter,peDOCS,5248
+BookChapter,"Universitätsbibliothek Gießen",392
+BookChapter,"Alfred Wegener Institute",346
+BookChapter,"TIB Hannover",307
+BookChapter,"__other__",1689
+Event,"Rolling Deck to Repository",8614
+Event,"Japan Link Center",2375
+Event,"ETH Zürich Research Collection",566
+Event,"ICI Berlin",407
+Event,"DTIC Datacenter",373
+Event,"__other__",744
+DataPaper,"TU Graz OPEN Library",5431
+DataPaper,"Société Française d'Ichtyologie",1277
+DataPaper,"The Commonwealth Fund Website",1210
+DataPaper,"Instytut Uprawy Nawożenia i Gleboznawstwa - Państwowy Instytut Badawczy",970
+DataPaper,microPublication,557
+DataPaper,"__other__",3434
+Model,"ModelArchive SIB",2794
+Model,"USGS DOI Tool Production Environment",1950
+Model,"Universitäts- und Landesbibliothek Sachsen-Anhalt",332
+Model,"Incorporated Research Institutions for Seismology",150
+Model,"The Human BioMolecular Atlas Program (HuBMAP) Reference Repository",105
+Model,"__other__",482
+Workflow,"Bern Open Research Information System (BORIS)",1301
+Workflow,chemotion,1136
+Workflow,Zenodo,197
+Workflow,"Universität Zürich, ZORA",182
+Workflow,INTERVALS,157
+Workflow,"__other__",180
+Standard,VALEP,1848
+Standard,"National Research Council Canada",251
+Standard,"NRC Digital Repository",43
+Standard,"Central Lancashire Online Knowledge",1
+Standard,"Institut national de recherche pour l’agriculture, l’alimentation et l’environnement",1
+Standard,"__other__",2
+Film,"Rutgers University Community Repository (RUcore)",755
+Film,"University Library Heidelberg",615
+Film,VIUspace,32
+Film,"University of Maryland Libraries Repositories",18
+Film,"Video Journal of Vitreoretinal Surgery",14
+Film,"__other__",2
+OutputManagementPlan,Zenodo,616
+OutputManagementPlan,"California Digital Library",500
+OutputManagementPlan,"e-manuscripta",16
+OutputManagementPlan,SOCIB,3
+OutputManagementPlan,"CDI B2Share",1
+ConferenceProceeding,"TIB Hannover",584
+ConferenceProceeding,"Università degli Studi di Pisa",61
+ConferenceProceeding,"University of Texas Libraries",32
+ConferenceProceeding,"Leibniz Institute of Ecological Urban and Regional Development",29
+ConferenceProceeding,"Université de technologie de Compiègne",25
+ConferenceProceeding,"__other__",179
+"__other__","Huma-Num",185
+"__other__","Direction de l’évaluation, de la prospective et de la performance",109
+"__other__",NAKALA,101
+"__other__","Royal Botanic Gardens, Kew",93
+"__other__","Data INRAE",87
+"__other__","__other__",567

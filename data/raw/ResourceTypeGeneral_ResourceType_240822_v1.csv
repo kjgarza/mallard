@@ -1,0 +1,153 @@
+﻿"types.resourceTypeGeneral: Descending","types.resourceType: Descending",Count
+Dataset,"__missing__",8002839
+Dataset,Dataset,2337500
+Dataset,"bacterial metadata",573308
+Dataset,folktale,222308
+Dataset,Image,150806
+Dataset,"__other__",1152914
+Text,Article,1707559
+Text,"Journal Article",1109737
+Text,"Taxonomic treatment",838882
+Text,"Journal contribution",791612
+Text,"__missing__",571450
+Text,"__other__",4653646
+Image,Figure,1044466
+Image,"__missing__",990098
+Image,Photo,561062
+Image,Bilde,235608
+Image,Plate,51767
+Image,"__other__",342348
+"__missing__","__missing__",1830332
+"__missing__",Text,19580
+PhysicalObject,"PGRFA Material",1093773
+PhysicalObject,"PGRFA material",200749
+PhysicalObject,"Genetic Resource",68953
+PhysicalObject,"__missing__",16740
+PhysicalObject,"PGRFA research material",8039
+PhysicalObject,"__other__",14368
+Preprint,Article,956806
+Preprint,"__missing__",4035
+Preprint,,9
+Preprint,"Working Paper",6
+Preprint,"Document de travail",5
+Preprint,"__other__",7
+Other,DataSheet,332631
+Other,"Online resource",95312
+Other,"(:unav)",69370
+Other,"__missing__",66678
+Other,"Physical object",43285
+Other,"__other__",261848
+Collection,Collection,484352
+Collection,"
+        Fascicolo
+    ",44202
+Collection,"Gaussian job archive",33746
+Collection,Text,14933
+Collection,Report,14402
+Collection,"__other__",243058
+Software,"__missing__",282790
+Software,Software,23660
+Software,Capsule,3813
+Software,"Simulation Tool",3150
+Software,XML,979
+Software,"__other__",4119
+Audiovisual,Media,65001
+Audiovisual,Presentation,60752
+Audiovisual,"__missing__",32991
+Audiovisual,"Conference talk",25389
+Audiovisual,"Conference/Talk",20313
+Audiovisual,"__other__",42458
+JournalArticle,"__missing__",227651
+JournalArticle,Article,7008
+JournalArticle,article,3567
+JournalArticle,"Electronic Resource",3231
+JournalArticle,"journal-article",381
+JournalArticle,"__other__",1352
+InteractiveResource,"__missing__",117891
+InteractiveResource,Podcast,282
+InteractiveResource,"Cours en ligne",127
+InteractiveResource,"Online Resource",101
+InteractiveResource,"Teaching Resourse",101
+InteractiveResource,"__other__",653
+Report,"Electronic Resource",70371
+Report,"__missing__",12112
+Report,"Technical report",1662
+Report,Report,974
+Report,"technical report",968
+Report,"__other__",1644
+Dissertation,Dissertation,18410
+Dissertation,"doctoral thesis",15725
+Dissertation,"__missing__",12065
+Dissertation,Thesis,6819
+Dissertation,"master thesis",6655
+Dissertation,"__other__",13749
+Sound,Music,16491
+Sound,dialogue,6961
+Sound,narrative,5751
+Sound,"__missing__",2290
+Sound,Sound,2223
+Sound,"__other__",6960
+ConferencePaper,"__missing__",28452
+ConferencePaper,"Conference Abstract",3821
+ConferencePaper,"conference paper",421
+ConferencePaper,Paper,256
+ConferencePaper,"Electronic Resource",208
+ConferencePaper,"__other__",179
+Book,"__missing__",10759
+Book,"Digital copy",5983
+Book,"Electronic Resource",792
+Book,book,165
+Book,Book,56
+Book,"__other__",197
+BookChapter,"__missing__",12063
+BookChapter,"Electronic Resource",643
+BookChapter,bookPart,392
+BookChapter,"book-chapter",98
+BookChapter,"proceedings-article",63
+BookChapter,"__other__",91
+Event,"Field_expedition",8614
+Event,"Research cruise",2374
+Event,Lecture,632
+Event,"Conference presentation",373
+Event,"__missing__",166
+Event,"__other__",920
+DataPaper,"__missing__",11057
+DataPaper,"To the Point (blog)",342
+DataPaper,"Issue Brief",181
+DataPaper,Article,161
+DataPaper,journalArticle,60
+DataPaper,"__other__",1078
+Model,"__missing__",3144
+Model,Model,2094
+Model,Map,335
+Model,"3D reference human organ model",105
+Model,model,30
+Model,"__other__",105
+Workflow,"__missing__",1714
+Workflow,"reaction conditions",1136
+Workflow,"Protocol in the INTERVALS database",157
+Workflow,Workflow,101
+Workflow,"Taverna 2 Workflow",15
+Workflow,"__other__",30
+Standard,"__missing__",1851
+Standard,"Standard or specification",294
+Standard,"Code of Conduct for Research ",1
+Film,"__missing__",769
+Film,Video,651
+Film,MovingImage,15
+Film,Film,1
+OutputManagementPlan,"__missing__",617
+OutputManagementPlan,"Data Management Plan",503
+OutputManagementPlan,"Still image",16
+ConferenceProceeding,"Digital copy",360
+ConferenceProceeding,"__missing__",246
+ConferenceProceeding,"Electronic Resource",224
+ConferenceProceeding,Proceedings,32
+ConferenceProceeding,"Conference Paper",13
+ConferenceProceeding,"__other__",35
+"__other__","__missing__",464
+"__other__",,189
+"__other__",ISC,77
+"__other__",Newsletter,76
+"__other__",Issue,49
+"__other__","__other__",287
