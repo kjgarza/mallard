@@ -1,0 +1,89 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "width": 240,
+    "height": 200,
+    "padding": {
+        "left": 5,
+        "top": 5,
+        "right": 5,
+        "bottom": 5
+    },
+    "selection": {
+        "highlight": {
+            "type": "single",
+            "empty": "none",
+            "on": "mouseover"
+        }
+    },
+    "data": {
+        "url": "data/movies.json"
+    },
+    "axes": [
+        {
+            "orient": "bottom",
+            "scale": "xscale",
+            "tickCount": 5
+        },
+        {
+            "orient": "left",
+            "scale": "yscale",
+            "tickCount": 5
+        }
+    ],
+    "mark": {
+        "type": "bar",
+        "cursor": "pointer",
+        "tooltip": true
+    },
+    "encoding": {
+        "y": {
+            "field": "id",
+            "type": "ordinal",
+            "sort": {
+                "encoding": "x"
+            },
+            "axis": {
+                "title": "dataTitle",
+                "labelLimit": 100
+            }
+        },
+        "x": {
+            "field": "metric",
+            "type": "quantitative",
+            "title": "",
+            "axis": {
+                "format": ",d",
+                "tickMinStep": 1
+            },
+            "scale": {
+                "type": "sqrt"
+            }
+        },
+        "color": {
+            "field": "metric",
+            "scale": {
+                "range": [
+                    "#ff1493"
+                ]
+            },
+            "type": "nominal",
+            "legend": null,
+            "condition": [
+                {
+                    "selection": "highlight",
+                    "value": "#34495e"
+                }
+            ]
+        }
+    },
+    "config": {
+        "view": {
+            "stroke": null
+        },
+        "axis": {
+            "grid": false,
+            "title": null,
+            "labelFlush": false
+        }
+    }
+}
