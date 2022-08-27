@@ -1,4 +1,4 @@
-﻿"types.resourceTypeGeneral: Descending","provider.region: Descending",Count
+﻿"types_resourceTypeGeneral","provider_region",Count
 Dataset,"__missing__",5622924
 Dataset,EMEA,4931581
 Dataset,AMER,1670538
