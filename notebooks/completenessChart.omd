@@ -1,0 +1,49 @@
+
+# completenessChart
+```
+import {
+  vegalite
+  } from "./vegaConfig.omd"
+
+import {
+  hundredBarSpec
+  } from "./hundredBarChart.omd"
+
+  
+completenessChart = function (...args) {
+  return vegalite(completenessSpec(...args))
+  }
+
+completenessSpec = function (
+  ...args
+) {
+  return {
+    $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+    vconcat:[
+      hundredBarSpec(args[0], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "contributors_affiliation_name"),
+      hundredBarSpec(args[2], "titles_title_keyword"),
+      hundredBarSpec(args[3], "metadata_version"),
+      hundredBarSpec(args[4], "rights_list_rights"),
+      hundredBarSpec(args[5], "publisher_keyword"),
+      hundredBarSpec(args[6], "language"),
+      hundredBarSpec(args[7], "formats"),
+      hundredBarSpec(args[8], "related_identifiers_relatedIdentifier"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral"),
+      hundredBarSpec(args[1], "types_resourceTypeGeneral")
+    ]
+  }
+}
+
+
+```

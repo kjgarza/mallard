@@ -1,0 +1,12 @@
+```
+
+// Create an embed function that applies the loader and theme
+vegalite = function (spec) {
+  return vegaEmbed(spec, {
+    loader: vegaEmbed.vega.loader({ baseURL: "https://vega.github.io/vega/" }),
+    theme: "fivethirtyeight"
+  });
+}
+
+vegaEmbed = require("vega-embed@6")
+```

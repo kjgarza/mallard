@@ -1,0 +1,60 @@
+
+
+# multiSeriesChart
+```
+import {
+  vegalite
+  } from "./vegaConfig.omd"
+
+  
+multiSeriesChart = function (data) {
+  return vegalite(multiSeriesSpec(data))
+  }
+
+
+hundredBarSpec = function (data, variable) {
+  return {
+    $schema: "https://vega.github.io/schema/vega-lite/v5.json",
+    description: "Stock prices of 5 Tech Companies over Time.",
+    data: { values: data },
+    transform: [
+      {
+        calculate: "datum.group",
+        as: "date"
+      }
+    ],
+    layer: [
+      {
+        mark: { type: "line", tooltip: true },
+        encoding: {
+          x: { field: "date", type: "temporal" },
+          y: { field: "growth", type: "quantitative" }
+        }
+      },
+      {
+        mark: {
+          type: "line",
+          color: "firebrick"
+        },
+        transform: [
+          {
+            regression: "growth",
+            on: "date"
+          }
+        ],
+        encoding: {
+          x: {
+            field: "date",
+            type: "quantitative"
+          },
+          y: {
+            field: "growth",
+            type: "quantitative"
+          }
+        }
+      }
+    ]
+  };
+}
+
+```

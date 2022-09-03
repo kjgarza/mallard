@@ -1,0 +1,55 @@
+
+# hundredBarChart
+```
+import {
+  vegalite
+  } from "./vegaConfig.omd"
+
+  
+hundredBarChart = function (data, variables) {
+  return vegalite(hundredBarSpec(data, variables))
+  }
+
+
+hundredBarSpec = function (data, variable) {
+  return {
+    data: {
+        url: data
+    },
+    width: 500,
+    mark: {
+      type: "bar",
+      tooltip: true
+    },
+    transform: [
+      {
+        calculate: "datum.count * 100",
+        as: "percentage"
+      },
+      {calculate: "datum."+variable+" == '__missing__'? '__missing__' : 'complete'",
+       as: "completenes"
+       }
+      ],
+    encoding: {
+        x: {
+            "aggregate": "sum",
+            "field": "count",
+            "stack": "normalize",
+            "type": "quantitative",
+            "axis": {"format": ".0%"},
+            "title":variable
+        },
+        color: {
+            "field": "completenes"
+        },
+        // order: {
+        //     "aggregate": "sum",
+        //     "sort": "descending",
+        //     "field": "count"
+        // }
+    }
+  }
+}
+
+
+```
