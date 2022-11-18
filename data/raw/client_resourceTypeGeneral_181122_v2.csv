@@ -1,0 +1,138 @@
+﻿"client_keyword","types_resourceTypeGeneral",Count
+Zenodo,Text,"1,612,702"
+Zenodo,Image,"1,267,495"
+Zenodo,Software,"297,508"
+Zenodo,JournalArticle,"271,454"
+Zenodo,Dataset,"251,458"
+Zenodo,ConferencePaper,"35,724"
+Zenodo,Other,"34,180"
+Zenodo,Audiovisual,"13,763"
+Zenodo,Report,"11,909"
+Zenodo,Book,"9,160"
+Zenodo,InteractiveResource,"8,872"
+Zenodo,BookChapter,"6,845"
+Zenodo,Preprint,"5,202"
+Zenodo,PhysicalObject,"1,851"
+Zenodo,OutputManagementPlan,651
+Zenodo,Collection,429
+Zenodo,Workflow,382
+Zenodo,"__missing_type",103
+Zenodo,PeerReview,23
+"figshare Academic Research System",Text,"790,067"
+"figshare Academic Research System",Dataset,"772,960"
+"figshare Academic Research System",Collection,"384,847"
+"figshare Academic Research System",Image,"356,354"
+"figshare Academic Research System",Audiovisual,"103,919"
+"figshare Academic Research System",Other,"39,185"
+"figshare Academic Research System","__missing_type","20,296"
+"figshare Academic Research System",Software,"18,755"
+"Plutof.  Data Management and Publishing Platform",Dataset,"2,383,884"
+"Plutof.  Data Management and Publishing Platform",Text,19
+"Plutof.  Data Management and Publishing Platform",Collection,6
+"Plutof.  Data Management and Publishing Platform",Image,5
+"Plutof.  Data Management and Publishing Platform",DataPaper,3
+"Plutof.  Data Management and Publishing Platform",Other,1
+"Plutof.  Data Management and Publishing Platform",Software,1
+arXiv,Text,"1,175,915"
+arXiv,Preprint,"986,914"
+"Global Biodiversity Information Facility",Dataset,"1,679,976"
+"Global Biodiversity Information Facility",Text,38
+"Global Biodiversity Information Facility",Other,7
+"Global Biodiversity Information Facility",Model,5
+"Global Biodiversity Information Facility","__missing_type",2
+"Global Biodiversity Information Facility",Collection,1
+"Global Biodiversity Information Facility",Report,1
+"International Treaty on Plant Genetic Resources for Food and Agriculture",PhysicalObject,"1,166,203"
+"International Treaty on Plant Genetic Resources for Food and Agriculture",Dataset,5
+ResearchGate,Text,"766,381"
+ResearchGate,"__missing_type","237,673"
+ResearchGate,Dataset,"49,872"
+"The Cambridge Structural Database",Dataset,"1,005,141"
+"The Cambridge Structural Database","__missing_type",6
+"E-Periodica",Text,"959,947"
+"E-Periodica","__missing_type","10,106"
+"E-Pics Bildarchiv",Image,"778,993"
+"E-Pics Bildarchiv","__missing_type",3
+"Harvard Dataverse",Dataset,"703,250"
+"Harvard Dataverse",Text,"6,170"
+"Harvard Dataverse","__missing_type",4
+"Columbia University Libraries","__missing_type","536,964"
+"Columbia University Libraries",Text,"144,793"
+"Columbia University Libraries",Dataset,441
+"Columbia University Libraries",Other,291
+"Columbia University Libraries",Software,89
+"Columbia University Libraries",Audiovisual,70
+"Columbia University Libraries",Image,66
+"Columbia University Libraries",JournalArticle,10
+"Columbia University Libraries",InteractiveResource,5
+"Columbia University Libraries",Sound,1
+DSMZ,Dataset,"665,457"
+"WSL Landesforstinventar",Dataset,"615,524"
+"University of Southern California Digital Library",Dataset,"533,910"
+"University of Southern California Digital Library",DataPaper,4
+"University of Southern California Digital Library",Other,1
+"University Library Heidelberg",Text,"390,701"
+"University Library Heidelberg",Image,"12,400"
+"University Library Heidelberg",Dataset,"6,808"
+"University Library Heidelberg",Collection,"2,553"
+"University Library Heidelberg",Film,615
+"University Library Heidelberg",Sound,385
+"University Library Heidelberg","__missing_type",144
+"University Library Heidelberg",Audiovisual,138
+"University Library Heidelberg",Other,2
+"University Library Heidelberg",PhysicalObject,1
+PANGAEA,Dataset,"396,472"
+PANGAEA,Collection,"10,437"
+PANGAEA,"__missing_type",187
+PARADISEC,"__missing_type","374,896"
+PARADISEC,Event,20
+PARADISEC,Audiovisual,5
+PARADISEC,Image,3
+PARADISEC,Text,2
+"Deutsches Institut für Erwachsenenbildung",Text,"373,193"
+"Data Planet",Other,"332,734"
+"Data Planet","__missing_type",17
+"Centre international de Resources Microbiennes - Levures",Dataset,"314,639"
+"Open Collections",Text,"180,511"
+"Open Collections","__missing_type","76,688"
+"Open Collections",Image,"17,098"
+"Open Collections",Audiovisual,"5,506"
+"Open Collections",PhysicalObject,"3,720"
+"Open Collections",Dataset,"1,053"
+"Open Collections",Sound,446
+"Open Collections",Other,215
+"Open Collections",Collection,4
+"Open Collections",InteractiveResource,4
+"Open Collections",Book,2
+NTNU,Image,"236,486"
+NTNU,Text,"13,739"
+"figshare SAGE Publications",Text,"124,127"
+"figshare SAGE Publications",Collection,"99,961"
+"figshare SAGE Publications",Dataset,"12,252"
+"figshare SAGE Publications",Image,"10,573"
+"figshare SAGE Publications",Audiovisual,"1,494"
+"figshare SAGE Publications",Software,8
+"UCD Digital Library",Dataset,"232,286"
+"UCD Digital Library","__missing_type",31
+"UCD Digital Library",Text,1
+Other,Text,"3,437,515"
+Other,Dataset,"3,299,186"
+Other,Image,"743,813"
+Other,"__missing_type","640,836"
+Other,Other,"512,860"
+Other,Collection,"362,826"
+Other,PhysicalObject,"304,076"
+Other,Audiovisual,"133,831"
+Other,InteractiveResource,"107,938"
+Other,Report,"79,967"
+Other,Dissertation,"75,258"
+Other,JournalArticle,"46,344"
+Other,Sound,"40,628"
+Other,Software,"25,927"
+Other,Event,"13,355"
+Other,DataPaper,"13,254"
+Other,Book,"10,768"
+Other,BookChapter,"9,036"
+Other,ConferencePaper,"8,906"
+Other,Model,"6,077"
+Other,"__other_type","9,115"
