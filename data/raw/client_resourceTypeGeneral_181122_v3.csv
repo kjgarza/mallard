@@ -1,0 +1,138 @@
+client_keyword,types_resourceTypeGeneral,Count
+Zenodo,Text,1612702
+Zenodo,Image,1267495
+Zenodo,Software,297508
+Zenodo,JournalArticle,271454
+Zenodo,Dataset,251458
+Zenodo,ConferencePaper,35724
+Zenodo,Other,34180
+Zenodo,Audiovisual,13763
+Zenodo,Report,11909
+Zenodo,Book,9160
+Zenodo,InteractiveResource,8872
+Zenodo,BookChapter,6845
+Zenodo,Preprint,5202
+Zenodo,PhysicalObject,1851
+Zenodo,OutputManagementPlan,651
+Zenodo,Collection,429
+Zenodo,Workflow,382
+Zenodo,__missing_type,103
+Zenodo,PeerReview,23
+figshare Academic Research System,Text,790067
+figshare Academic Research System,Dataset,772960
+figshare Academic Research System,Collection,384847
+figshare Academic Research System,Image,356354
+figshare Academic Research System,Audiovisual,103919
+figshare Academic Research System,Other,39185
+figshare Academic Research System,__missing_type,20296
+figshare Academic Research System,Software,18755
+Plutof.  Data Management and Publishing Platform,Dataset,2383884
+Plutof.  Data Management and Publishing Platform,Text,19
+Plutof.  Data Management and Publishing Platform,Collection,6
+Plutof.  Data Management and Publishing Platform,Image,5
+Plutof.  Data Management and Publishing Platform,DataPaper,3
+Plutof.  Data Management and Publishing Platform,Other,1
+Plutof.  Data Management and Publishing Platform,Software,1
+arXiv,Text,1175915
+arXiv,Preprint,986914
+Global Biodiversity Information Facility,Dataset,1679976
+Global Biodiversity Information Facility,Text,38
+Global Biodiversity Information Facility,Other,7
+Global Biodiversity Information Facility,Model,5
+Global Biodiversity Information Facility,__missing_type,2
+Global Biodiversity Information Facility,Collection,1
+Global Biodiversity Information Facility,Report,1
+International Treaty on Plant Genetic Resources for Food and Agriculture,PhysicalObject,1166203
+International Treaty on Plant Genetic Resources for Food and Agriculture,Dataset,5
+ResearchGate,Text,766381
+ResearchGate,__missing_type,237673
+ResearchGate,Dataset,49872
+The Cambridge Structural Database,Dataset,1005141
+The Cambridge Structural Database,__missing_type,6
+E-Periodica,Text,959947
+E-Periodica,__missing_type,10106
+E-Pics Bildarchiv,Image,778993
+E-Pics Bildarchiv,__missing_type,3
+Harvard Dataverse,Dataset,703250
+Harvard Dataverse,Text,6170
+Harvard Dataverse,__missing_type,4
+Columbia University Libraries,__missing_type,536964
+Columbia University Libraries,Text,144793
+Columbia University Libraries,Dataset,441
+Columbia University Libraries,Other,291
+Columbia University Libraries,Software,89
+Columbia University Libraries,Audiovisual,70
+Columbia University Libraries,Image,66
+Columbia University Libraries,JournalArticle,10
+Columbia University Libraries,InteractiveResource,5
+Columbia University Libraries,Sound,1
+DSMZ,Dataset,665457
+WSL Landesforstinventar,Dataset,615524
+University of Southern California Digital Library,Dataset,533910
+University of Southern California Digital Library,DataPaper,4
+University of Southern California Digital Library,Other,1
+University Library Heidelberg,Text,390701
+University Library Heidelberg,Image,12400
+University Library Heidelberg,Dataset,6808
+University Library Heidelberg,Collection,2553
+University Library Heidelberg,Film,615
+University Library Heidelberg,Sound,385
+University Library Heidelberg,__missing_type,144
+University Library Heidelberg,Audiovisual,138
+University Library Heidelberg,Other,2
+University Library Heidelberg,PhysicalObject,1
+PANGAEA,Dataset,396472
+PANGAEA,Collection,10437
+PANGAEA,__missing_type,187
+PARADISEC,__missing_type,374896
+PARADISEC,Event,20
+PARADISEC,Audiovisual,5
+PARADISEC,Image,3
+PARADISEC,Text,2
+Deutsches Institut für Erwachsenenbildung,Text,373193
+Data Planet,Other,332734
+Data Planet,__missing_type,17
+Centre international de Resources Microbiennes - Levures,Dataset,314639
+Open Collections,Text,180511
+Open Collections,__missing_type,76688
+Open Collections,Image,17098
+Open Collections,Audiovisual,5506
+Open Collections,PhysicalObject,3720
+Open Collections,Dataset,1053
+Open Collections,Sound,446
+Open Collections,Other,215
+Open Collections,Collection,4
+Open Collections,InteractiveResource,4
+Open Collections,Book,2
+NTNU,Image,236486
+NTNU,Text,13739
+figshare SAGE Publications,Text,124127
+figshare SAGE Publications,Collection,99961
+figshare SAGE Publications,Dataset,12252
+figshare SAGE Publications,Image,10573
+figshare SAGE Publications,Audiovisual,1494
+figshare SAGE Publications,Software,8
+UCD Digital Library,Dataset,232286
+UCD Digital Library,__missing_type,31
+UCD Digital Library,Text,1
+Other,Text,3437515
+Other,Dataset,3299186
+Other,Image,743813
+Other,__missing_type,640836
+Other,Other,512860
+Other,Collection,362826
+Other,PhysicalObject,304076
+Other,Audiovisual,133831
+Other,InteractiveResource,107938
+Other,Report,79967
+Other,Dissertation,75258
+Other,JournalArticle,46344
+Other,Sound,40628
+Other,Software,25927
+Other,Event,13355
+Other,DataPaper,13254
+Other,Book,10768
+Other,BookChapter,9036
+Other,ConferencePaper,8906
+Other,Model,6077
+Other,__other_type,9115
