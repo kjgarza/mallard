@@ -1,0 +1,139 @@
+﻿"client_keyword","types_resourceTypeGeneral",Count
+Zenodo,Text,1612685
+Zenodo,Image,1267495
+Zenodo,Software,297478
+Zenodo,JournalArticle,271328
+Zenodo,Dataset,251403
+Zenodo,ConferencePaper,35723
+Zenodo,Other,34171
+Zenodo,Audiovisual,13761
+Zenodo,Report,11907
+Zenodo,Book,9160
+Zenodo,InteractiveResource,8872
+Zenodo,BookChapter,6841
+Zenodo,Preprint,5200
+Zenodo,PhysicalObject,1851
+Zenodo,OutputManagementPlan,651
+Zenodo,Collection,429
+Zenodo,Workflow,382
+Zenodo,"__missing__",103
+Zenodo,PeerReview,23
+"figshare Academic Research System",Text,789300
+"figshare Academic Research System",Dataset,772749
+"figshare Academic Research System",Collection,384389
+"figshare Academic Research System",Image,356270
+"figshare Academic Research System",Audiovisual,103904
+"figshare Academic Research System",Other,39181
+"figshare Academic Research System","__missing__",20296
+"figshare Academic Research System",Software,18755
+"Plutof.  Data Management and Publishing Platform",Dataset,2383884
+"Plutof.  Data Management and Publishing Platform",Text,19
+"Plutof.  Data Management and Publishing Platform",Collection,6
+"Plutof.  Data Management and Publishing Platform",Image,5
+"Plutof.  Data Management and Publishing Platform",DataPaper,3
+"Plutof.  Data Management and Publishing Platform",Other,1
+"Plutof.  Data Management and Publishing Platform",Software,1
+arXiv,Text,1175915
+arXiv,Preprint,986914
+"Global Biodiversity Information Facility",Dataset,1679898
+"Global Biodiversity Information Facility",Text,38
+"Global Biodiversity Information Facility",Other,7
+"Global Biodiversity Information Facility",Model,5
+"Global Biodiversity Information Facility","__missing__",2
+"Global Biodiversity Information Facility",Collection,1
+"Global Biodiversity Information Facility",Report,1
+"International Treaty on Plant Genetic Resources for Food and Agriculture",PhysicalObject,1166203
+"International Treaty on Plant Genetic Resources for Food and Agriculture",Dataset,5
+ResearchGate,Text,766334
+ResearchGate,"__missing__",237673
+ResearchGate,Dataset,49872
+"The Cambridge Structural Database",Dataset,1005141
+"The Cambridge Structural Database","__missing__",6
+"E-Periodica",Text,959947
+"E-Periodica","__missing__",10106
+"E-Pics Bildarchiv",Image,778993
+"E-Pics Bildarchiv","__missing__",3
+"Harvard Dataverse",Dataset,703245
+"Harvard Dataverse",Text,6170
+"Harvard Dataverse","__missing__",4
+"Columbia University Libraries","__missing__",536964
+"Columbia University Libraries",Text,144793
+"Columbia University Libraries",Dataset,441
+"Columbia University Libraries",Other,291
+"Columbia University Libraries",Software,89
+"Columbia University Libraries",Audiovisual,70
+"Columbia University Libraries",Image,66
+"Columbia University Libraries",JournalArticle,10
+"Columbia University Libraries",InteractiveResource,5
+"Columbia University Libraries",Sound,1
+DSMZ,Dataset,665457
+"WSL Landesforstinventar",Dataset,615524
+"University of Southern California Digital Library",Dataset,533910
+"University of Southern California Digital Library",DataPaper,4
+"University of Southern California Digital Library",Other,1
+"University Library Heidelberg",Text,390700
+"University Library Heidelberg",Image,12400
+"University Library Heidelberg",Dataset,6808
+"University Library Heidelberg",Collection,2553
+"University Library Heidelberg",Film,615
+"University Library Heidelberg",Sound,385
+"University Library Heidelberg","__missing__",144
+"University Library Heidelberg",Audiovisual,138
+"University Library Heidelberg",Other,2
+"University Library Heidelberg",PhysicalObject,1
+PANGAEA,Dataset,396472
+PANGAEA,Collection,10437
+PANGAEA,"__missing__",187
+PARADISEC,"__missing__",374896
+PARADISEC,Event,20
+PARADISEC,Audiovisual,5
+PARADISEC,Image,3
+PARADISEC,Text,2
+"Deutsches Institut für Erwachsenenbildung",Text,373193
+"Data Planet",Other,332734
+"Data Planet","__missing__",17
+"Centre international de Resources Microbiennes - Levures",Dataset,314639
+"Open Collections",Text,180511
+"Open Collections","__missing__",76688
+"Open Collections",Image,17098
+"Open Collections",Audiovisual,5506
+"Open Collections",PhysicalObject,3720
+"Open Collections",Dataset,1053
+"Open Collections",Sound,446
+"Open Collections",Other,215
+"Open Collections",Collection,4
+"Open Collections",InteractiveResource,4
+"Open Collections",Book,2
+NTNU,Image,236486
+NTNU,Text,13739
+"figshare SAGE Publications",Text,124119
+"figshare SAGE Publications",Collection,99955
+"figshare SAGE Publications",Dataset,12252
+"figshare SAGE Publications",Image,10573
+"figshare SAGE Publications",Audiovisual,1494
+"figshare SAGE Publications",Software,8
+"UCD Digital Library",Dataset,232286
+"UCD Digital Library","__missing__",31
+"UCD Digital Library",Text,1
+"__other__",Text,3437265
+"__other__",Dataset,3299167
+"__other__",Image,743705
+"__other__","__missing__",640924
+"__other__",Other,512855
+"__other__",Collection,362822
+"__other__",PhysicalObject,304076
+"__other__",Audiovisual,133829
+"__other__",InteractiveResource,107938
+"__other__",Report,79967
+"__other__",Dissertation,75253
+"__other__",JournalArticle,46328
+"__other__",Sound,40628
+"__other__",Software,25927
+"__other__",Event,13355
+"__other__",DataPaper,13254
+"__other__",Book,10768
+"__other__",BookChapter,9036
+"__other__",ConferencePaper,8906
+"__other__",Model,6076
+"__other__",Workflow,3146
+"__other__","__other__",5966
